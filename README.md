@@ -28,3 +28,4 @@ Then the server:
 - a no match encrypted message is returned if no matching template is found
 - the system will need to have an Equal Error Rate (EER) of 0.1%
 - the UBIRIS.V2 database will be used to compute the error rates
+
